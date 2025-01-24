@@ -1,0 +1,5 @@
+graph TD;
+    A[Entity A] --> B[Entity B];
+    A[Entity A] --> C[Entity C];
+    B[Entity B] --> D[Entity D];
+    C[Entity C] --> D[Entity D];
