@@ -1,7 +1,5 @@
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title Hours Spent Doing Activities Per Week X
-    "Showering" : 7
+pie title Hours Spent Doing Activities Per Week
     "Eating" : 11
+    "Bathing" : 7
     "Working Out" : 6
-    "Studying" :  18
+    "Studing"  :  18
