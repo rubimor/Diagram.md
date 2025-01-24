@@ -1,5 +1,7 @@
-graph TD;
-    A[Entity A] --> B[Entity B];
-    A[Entity A] --> C[Entity C];
-    B[Entity B] --> D[Entity D];
-    C[Entity C] --> D[Entity D];
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Hours Spent Doing Activities Per Week X
+    "Showering" : 7
+    "Eating" : 11
+    "Working Out" : 6
+    "Studying" :  18
